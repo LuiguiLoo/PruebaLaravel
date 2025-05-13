@@ -14,12 +14,12 @@ Este es un **Mini-CRM** desarrollado en Laravel para gestionar empresas y emplea
 2. Abrir la carpeta en tu editor de código
 3. Abrir la terminal y ejecutar el comando `composer install`
 4. Abrir la terminal y ejecutar el comando `php artisan migrate`
-5. Abrir la terminal y ejecutar el comando `php artisan db:seed`
+5. Abrir la terminal y ejecutar el comando `php artisan db:seed` y php artisan db:seed --class=AdminSeeder para hacerlo directamente
 6. Abrir la terminal y ejecutar el comando `php artisan serve`
 7. Abrir el navegador y ingresar a la dirección `http://localhost/prueba_laravel/public/`
 
 ## Usuarios para iniciar sesión
-- Luigi Loo Jara    |   password: $LuiguiLoo$
+- Luigui_Loo.Jara@hotmail.com    |   password: $LuiguiLoo$
 
 ## **Autor**
 👤 **Luigi Loo Jara**
